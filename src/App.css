@@ -1,0 +1,9 @@
+
+
+.home {
+display: flex;
+justify-content: space-evenly;
+flex-direction: row;
+gap: 5rem;
+
+}
